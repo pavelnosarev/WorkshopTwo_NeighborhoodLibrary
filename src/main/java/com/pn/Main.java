@@ -10,5 +10,27 @@ public class Main {
 
 
         System.out.println("Hello world!");
-    }
+    };
+
+
+class Book {
+
+///properties //
+
+    private int  id;
+    private String isbn;
+    private String title;
+    private boolean isCheckedOut;
+    private String isCheckedOutTo;
+
+
+////getters and setters///
+
+        
+
+
+
+
+
+
 }
